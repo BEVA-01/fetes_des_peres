@@ -112,7 +112,7 @@ const souvenirs = {
         {
             date: "2013-03-13",
             dateTexte: "Le 13 mai 2013",
-            titre: "Mon premier kimino",
+            titre: "Mon premier kimono",
             texte: "Un futur combattant qui, grâce à toi, allait devenir moins peureux.",
             images: ["Photo1/10.JPG"]
         },
@@ -179,7 +179,7 @@ const souvenirs = {
             images: ["Photo1/17.JPG"]
         },
         {
-            date: "2016-012-10",
+            date: "2016-12-10",
             dateTexte: "Le 10 décembre 2016",
             titre: "Luna Park avec Jade",
             texte: "Mon prime de la beauté(toujours)",
@@ -353,7 +353,7 @@ const souvenirs = {
             date: "2024-04-30",
             dateTexte: "Le 30 avril 2024",
             titre: "Voyage à Rome pour fêter tes 44ans!",
-            texte: "Boucoup de galères mais vacances mémorables!",
+            texte: "Beaucoup de galères mais vacances mémorables!",
             images: ["Photo1/42.jpeg"]
         }
     ],
