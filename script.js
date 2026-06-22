@@ -45,7 +45,7 @@ const souvenirs = {
             dateTexte: "Le 5 juin 2010",
             titre: "Happyland",
             texte: "Vroum vroum.",
-            images: ["Photo1/1bis.jpg"]
+            images: ["Photo1/1bis.JPG"]
         }
     ],
     2011: [
@@ -54,28 +54,28 @@ const souvenirs = {
             dateTexte: "Le 2 juin 2011",
             titre: "Fun Planet",
             texte: "Le fusil était si lourd je m'en souviens!",
-            images: ["Photo1/2.jpg"]
+            images: ["Photo1/2.JPG"]
         },
         {
             date: "2011-08-14",
             dateTexte: "Le 14 août 2011",
             titre: "Saut en parachute - Gruyères",
             texte: "Je me souviens que nous avions attendu longtemps avant qu'ils viennent te chercher.",
-            images: ["Photo1/3.jpg"]
+            images: ["Photo1/3.JPG"]
         },
         {
             date: "2011-08-14",
             dateTexte: "Le 14 août 2011",
             titre: "Village de Gruyères",
             texte: "Le même jour, mais déjà une nouvelle aventure.",
-            images: ["Photo1/4.jpg"]
+            images: ["Photo1/4.JPG"]
         },
         {
             date: "2011-08-14",
             dateTexte: "Le 14 août 2011",
             titre: "Village de Gruyères",
             texte: "Avoue qu'on était choupis.",
-            images: ["Photo1/5.jpg"]
+            images: ["Photo1/5.JPG"]
         }
     ],
     2012: [
@@ -84,28 +84,28 @@ const souvenirs = {
             dateTexte: "Le 15 janvier 2012",
             titre: "Musée océanographique de Monaco",
             texte: "J'étais pas encore trop lourd à cette époque, ça va. 😄",
-            images: ["Photo1/6.jpg"]
+            images: ["Photo1/6.JPG"]
         },
         {
             date: "2012-04-21",
             dateTexte: "Le 21 avril 2012",
             titre: "Plage de Nice",
             texte: "Je n'avais pas l'air très rassuré. Il faut dire que, dans mon esprit, le moindre risque pouvait signer la fin du monde.",
-            images: ["Photo1/7.jpg"]
+            images: ["Photo1/7.JPG"]
         },
         {
             date: "2012-04-29",
             dateTexte: "Le 29 avril 2012",
             titre: "Ton anniversaire à Blausasc (32 ans)",
             texte: "Sacrée descente! 🍺",
-            images: ["Photo1/8.jpg"]
+            images: ["Photo1/8.JPG"]
         },
         {
             date: "2012-06-16",
             dateTexte: "Le 16 juin 2012",
             titre: "A mon tour de fêter mes 9 ans au karting! (Hyères)",
             texte: "Je me voyais déjà pilote. Aujourd'hui, j'essaie surtout d'obtenir le permis.",
-            images: ["Photo1/9.jpg"]
+            images: ["Photo1/9.JPG"]
         }
     ],
     2013: [
@@ -114,21 +114,21 @@ const souvenirs = {
             dateTexte: "Le 13 mai 2013",
             titre: "Mon premier kimino",
             texte: "Un futur combattant qui, grâce à toi, allait devenir moins peureux.",
-            images: ["Photo1/10.jpg"]
+            images: ["Photo1/10.JPG"]
         },
         {
             date: "2013-06-09",
             dateTexte: "Le 9 juin 2013",
             titre: "Événement médiéval à Villeneuve-Loubet",
             texte: `À cette époque, les gens du peuple me connaissaient sous le nom de "Gaston le Brave".`,
-            images: ["Photo1/11.jpg"]
+            images: ["Photo1/11.JPG"]
         },
         {
             date: "2013-06-26",
             dateTexte: "Le 26 juin 2013",
             titre: "Obtention de ma ceinture jaune au taekwondo",
             texte: "Malgré le manque de preuves, je reste persuadé d'être plus fort que Ngannou.",
-            images: ["Photo1/12.jpg"]
+            images: ["Photo1/12.JPG"]
         }
     ],
     2014: [
@@ -137,7 +137,7 @@ const souvenirs = {
             dateTexte: "Réveillon 2014",
             titre: "Notre rituel de l'année",
             texte: "J'étais bien habillé maintenant, comparé au précédent Noël.",
-            images: ["Photo1/13.jpg"]
+            images: ["Photo1/13.JPG"]
         }
     ],
     2015: [
@@ -156,8 +156,8 @@ const souvenirs = {
             titre: "Jetski à deux",
             texte: "On avait passé un superbe moment!",
             images: [
-                "Photo1/14.jpg",
-                "Photo1/15.jpg"
+                "Photo1/14.JPG",
+                "Photo1/15.JPG"
             ]
         },
         {
@@ -166,7 +166,7 @@ const souvenirs = {
             titre: "Chez JM",
             texte: "On s'était sûrement encore amusés à se noyer. 💦",
             images: [
-                "Photo1/16.jpg"
+                "Photo1/16.JPG"
             ]
         }
     ],
@@ -176,14 +176,14 @@ const souvenirs = {
             dateTexte: "Le 1er mai 2016",
             titre: "Pique nique au Castel des deux Rois",
             texte: "Mon prime de la beauté",
-            images: ["Photo1/17.jpg"]
+            images: ["Photo1/17.JPG"]
         },
         {
             date: "2016-012-10",
             dateTexte: "Le 10 décembre 2016",
             titre: "Luna Park avec Jade",
             texte: "Mon prime de la beauté(toujours)",
-            images: ["Photo1/18.jpg"]
+            images: ["Photo1/18.JPG"]
         }
     ],
     2017: [
@@ -199,15 +199,15 @@ const souvenirs = {
             dateTexte: "Le 8 juin 2017",
             titre: "Un anniversaire sur la plage privée",
             texte: "Les golfes de mon crâne n'allaient pas tarder à se creuser. 😭",
-            images: ["Photo1/20.jpg"]
+            images: ["Photo1/20.JPG"]
         },
         {
             date: "2017-08-12",
             dateTexte: "Le 12 août 2017",
             titre: "Les Gorges du Verdon",
             texte: "On attend toujours le permis bateau. 👀",
-            images: ["Photo1/21.jpg",
-                "Photo1/22.jpg"
+            images: ["Photo1/21.JPG",
+                "Photo1/22.JPG"
              ]
         },
         {
@@ -233,7 +233,7 @@ const souvenirs = {
             dateTexte: "Le 18 janvier 2018",
             titre: "Luna Park",
             texte: "J'ai déjà déjà dit que j'étais à mon prime la?",
-            images: ["Photo1/23.jpg"]
+            images: ["Photo1/23.JPG"]
         },
         {
             date: "2018-02-20",
@@ -336,7 +336,7 @@ const souvenirs = {
             dateTexte: "Le 2 mai 2022",
             titre: "Intégration à l'Aéroport!",
             texte: "Ils m'ont vu que 4 fois, mais j'étais quand même stylé.",
-            images: ["Photo1/40.jpg"]
+            images: ["Photo1/40.JPG"]
         }
     ],
     2023: [
