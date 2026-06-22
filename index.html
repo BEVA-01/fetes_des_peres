@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pour toi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <p class="hero-kicker">Pour toi</p>
+            <h1>Bonne fête des Pères</h1>
+            <p class="hero-text">Mon oubli a duré quelques heures. Les souvenirs que nous avons construits ensemble durent depuis près de vingt ans.</p>
+            <button id="start-button">Commencer notre histoire</button>
+            <audio id="music" loop>
+                <source src="Music/Its Probably Me.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+    </header>
+
+    <section id="timeline-section">
+        <h2>Notre histoire</h2>
+
+        <div class="timeline-wrapper">
+            <div class="timeline-line"></div>
+
+            <div class="timeline">
+                <button class="year" data-year="2006">2006</button>
+                <button class="year" data-year="2009">2009</button>
+                <button class="year" data-year="2010">2010</button>
+                <button class="year" data-year="2011">2011</button>
+                <button class="year" data-year="2012">2012</button>
+                <button class="year" data-year="2013">2013</button>
+                <button class="year" data-year="2014">2014</button>
+                <button class="year" data-year="2015">2015</button>
+                <button class="year" data-year="2016">2016</button>
+                <button class="year" data-year="2017">2017</button>
+                <button class="year" data-year="2018">2018</button>
+                <button class="year" data-year="2019">2019</button>
+                <button class="year" data-year="2020">2020</button>
+                <button class="year" data-year="2021">2021</button>
+                <button class="year" data-year="2022">2022</button>
+                <button class="year" data-year="2023">2023</button>
+                <button class="year" data-year="2024">2024</button>
+                <button class="year" data-year="2025">2025</button>
+                <button class="year" data-year="2026">2026</button>
+                <button class="year secret-year" data-year="2027">2027 ?</button>
+            </div>
+        </div>
+
+        <div class="progress-container">
+            <div id="timeline-progress"></div>
+        </div>
+
+        <div id="memory-content" class="memory-card">
+            <h3>Sélectionne une année</h3>
+            <p>Clique sur une année pour découvrir un souvenir.</p>
+        </div>
+    </section>
+
+    <section>
+        <div class="envelope">
+            <button id="open-letter">
+                Ouvrir le message
+            </button>
+
+            <div id="letter">
+                <h3>Un dernier mot</h3>
+                <p>Je voulais simplement te dire pardon.</p>
+                <p>J'espère sincèrement que nous aurons de belles années devant nous et plein de nouveaux souvenirs à ajouter sur cette page.</p>
+                <p> Merci pour toutes ces années.</p>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
+<!-- NOTE: Mon-site/
+                ├── index.html
+                ├── style.css
+                ├── script.js
+                ├── photos/
+                │   └── accueil.jpg
+                └── musique/
+                    └── musique.mp3 -->
